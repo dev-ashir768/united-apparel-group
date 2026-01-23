@@ -1,0 +1,1663 @@
+[2026-01-17 12:36:50] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 29.99
+    [oldPrice] => 45.99
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:36:57] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 29
+    [oldPrice] => 45.99
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:37:01] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 29
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:37:07] Received Request: Array
+(
+    [action] => delete
+    [id] => 102
+)
+
+[2026-01-17 12:38:18] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Denium T-Shirt
+    [category] => Men's
+    [price] => 29.99
+    [oldPrice] => 45.99
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:38:45] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Denium T-Shirt
+    [category] => Men's
+    [price] => 29.99
+    [oldPrice] => 45.99
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:38:59] Received Request: Array
+(
+    [action] => delete
+    [id] => 104
+)
+
+[2026-01-17 12:39:14] Received Request: Array
+(
+    [action] => delete
+    [id] => 104
+)
+
+[2026-01-17 12:39:40] Received Request: Array
+(
+    [action] => delete
+    [id] => 104
+)
+
+[2026-01-17 12:40:09] Received Request: Array
+(
+    [action] => add
+    [id] => 1768653609960
+    [name] => Tumbler Bottle
+    [category] => Sports
+    [price] => 150.99
+    [oldPrice] => 200
+    [image] => https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=80
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 12:41:53] Received Request: Array
+(
+    [action] => delete
+    [id] => 101
+)
+
+[2026-01-17 12:42:14] Received Request: Array
+(
+    [action] => edit
+    [id] => 104
+    [name] => Kids Dinosaur Tee
+    [category] => Kids
+    [price] => 198
+    [oldPrice] => 
+    [image] => https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=80
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 12:42:48] Received Request: Array
+(
+    [action] => edit
+    [id] => 104
+    [name] => Kids Dinosaur Tee
+    [category] => Kids
+    [price] => 20
+    [oldPrice] => 
+    [image] => https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=80
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 12:45:12] Received Request: Array
+(
+    [action] => edit
+    [id] => 103
+    [name] => Floral Summer Dress
+    [category] => Women's
+    [price] => 55.99
+    [oldPrice] => 75
+    [image] => https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80
+    [badge] => Sale
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-17 12:45:18] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 29.99
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:46:42] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:48:16] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:48:22] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:50:03] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:50:15] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:55:16] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:56:54] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 12:57:04] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Test
+    [category] => Men's
+    [price] => 33
+    [oldPrice] => 
+    [image] => https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 13:01:16] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 13:01:16] File content length: 2447
+[2026-01-17 13:01:16] No BOM found
+[2026-01-17 13:01:16] UTF-8 cleaning done
+[2026-01-17 13:01:16] Content prepared for parsing. Length: 2428
+[2026-01-17 13:01:16] Attempting strict decode...
+[2026-01-17 13:01:16] Strict decode failed: Syntax error. Trying loose parser.
+[2026-01-17 13:01:16] Starting loose parser...
+[2026-01-17 13:01:16] Control chars stripped
+[2026-01-17 13:01:16] Keys quoted
+[2026-01-17 13:01:16] Strings processed
+[2026-01-17 13:01:16] Loose parser failed: Syntax error
+[2026-01-17 13:29:22] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 35
+    [oldPrice] => 45
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Hot
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 13:29:22] File content length: 2447
+[2026-01-17 13:29:22] No BOM found
+[2026-01-17 13:29:22] UTF-8 cleaning done
+[2026-01-17 13:29:22] Content prepared for parsing. Length: 2428
+[2026-01-17 13:29:22] Attempting strict decode...
+[2026-01-17 13:29:22] Strict decode failed: Syntax error. Trying loose parser.
+[2026-01-17 13:29:22] Starting loose parser (Single-Pass Tokenizer)...
+[2026-01-17 13:29:22] Tokenizer finished
+[2026-01-17 13:29:41] Received Request: Array
+(
+    [action] => delete
+    [id] => 102
+)
+
+[2026-01-17 13:29:41] File content length: 2967
+[2026-01-17 13:29:41] No BOM found
+[2026-01-17 13:29:41] UTF-8 cleaning done
+[2026-01-17 13:29:41] Content prepared for parsing. Length: 2949
+[2026-01-17 13:29:41] Attempting strict decode...
+[2026-01-17 13:29:41] Strict decode success!
+[2026-01-17 13:29:58] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 34.99
+    [oldPrice] => 55.99
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => New
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-17 13:29:58] File content length: 2263
+[2026-01-17 13:29:58] No BOM found
+[2026-01-17 13:29:58] UTF-8 cleaning done
+[2026-01-17 13:29:58] Content prepared for parsing. Length: 2245
+[2026-01-17 13:29:58] Attempting strict decode...
+[2026-01-17 13:29:58] Strict decode success!
+[2026-01-17 13:30:21] Received Request: Array
+(
+    [action] => add
+    [id] => 1768656621681
+    [name] => Tumbler
+    [category] => Sports
+    [price] => 150
+    [oldPrice] => 201
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 13:30:21] File content length: 2275
+[2026-01-17 13:30:21] No BOM found
+[2026-01-17 13:30:21] UTF-8 cleaning done
+[2026-01-17 13:30:21] Content prepared for parsing. Length: 2257
+[2026-01-17 13:30:21] Attempting strict decode...
+[2026-01-17 13:30:21] Strict decode success!
+[2026-01-17 13:31:48] Received Request: Array
+(
+    [action] => edit
+    [id] => 101
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 34.99
+    [oldPrice] => 53.99
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Sale
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-17 13:31:48] File content length: 2977
+[2026-01-17 13:31:48] No BOM found
+[2026-01-17 13:31:48] UTF-8 cleaning done
+[2026-01-17 13:31:48] Content prepared for parsing. Length: 2959
+[2026-01-17 13:31:48] Attempting strict decode...
+[2026-01-17 13:31:48] Strict decode success!
+[2026-01-17 14:02:57] Received Request: Array
+(
+    [action] => edit
+    [id] => 1768656621681
+    [name] => Tumbler
+    [category] => Sports
+    [price] => 150
+    [oldPrice] => 201
+    [image] => https://img.freepik.com/free-photo/hand-holding-thermos-mock-up-yellow-background_23-2148295782.jpg?t=st=1768658552~exp=1768662152~hmac=49a2a6f3baede604fba472473fe445b65e1012adeb999523fb707a70ec3f6c7d&w=2000
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 14:02:57] File content length: 2981
+[2026-01-17 14:02:57] No BOM found
+[2026-01-17 14:02:57] UTF-8 cleaning done
+[2026-01-17 14:02:57] Content prepared for parsing. Length: 2963
+[2026-01-17 14:02:57] Attempting strict decode...
+[2026-01-17 14:02:57] Strict decode success!
+[2026-01-17 14:04:32] Received Request: Array
+(
+    [action] => add
+    [id] => 1768658672052
+    [name] => Men Slim Fit Denim
+    [category] => Men's
+    [price] => 99.99
+    [oldPrice] => 120
+    [image] => https://engine.com.pk/cdn/shop/files/FD5139-BLU_2.jpg?v=1761740762
+    [badge] => Sale
+    [badgeColor] => bg-black
+)
+
+[2026-01-17 14:04:32] File content length: 3211
+[2026-01-17 14:04:32] No BOM found
+[2026-01-17 14:04:32] UTF-8 cleaning done
+[2026-01-17 14:04:32] Content prepared for parsing. Length: 3193
+[2026-01-17 14:04:32] Attempting strict decode...
+[2026-01-17 14:04:32] Strict decode success!
+[2026-01-17 14:34:22] Received Request: Array
+(
+    [action] => add
+    [id] => 1768660459357
+    [name] => Men T Shirt
+    [category] => Men's
+    [price] => 0
+    [oldPrice] => 20
+    [image] => https://engine.com.pk/cdn/shop/files/FT6004-NVY_1.jpg?v=1768201952
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 14:34:22] File content length: 3554
+[2026-01-17 14:34:22] No BOM found
+[2026-01-17 14:34:22] UTF-8 cleaning done
+[2026-01-17 14:34:22] Content prepared for parsing. Length: 3536
+[2026-01-17 14:34:22] Attempting strict decode...
+[2026-01-17 14:34:22] Strict decode success!
+[2026-01-17 14:34:35] Received Request: Array
+(
+    [action] => edit
+    [id] => 1768660459357
+    [name] => Men T Shirt
+    [category] => Men's
+    [price] => 20
+    [oldPrice] => 0
+    [image] => https://engine.com.pk/cdn/shop/files/FT6004-NVY_1.jpg?v=1768201952
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 14:34:35] File content length: 3877
+[2026-01-17 14:34:35] No BOM found
+[2026-01-17 14:34:35] UTF-8 cleaning done
+[2026-01-17 14:34:35] Content prepared for parsing. Length: 3859
+[2026-01-17 14:34:35] Attempting strict decode...
+[2026-01-17 14:34:35] Strict decode success!
+[2026-01-17 14:35:19] Received Request: Array
+(
+    [action] => add
+    [id] => 1768660517114
+    [name] => Men T Shirt
+    [category] => Men's
+    [price] => 20
+    [oldPrice] => 
+    [image] => https://engine.com.pk/cdn/shop/files/FT6019-HGY_2.jpg?v=1768202570
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 14:35:19] File content length: 3880
+[2026-01-17 14:35:19] No BOM found
+[2026-01-17 14:35:19] UTF-8 cleaning done
+[2026-01-17 14:35:19] Content prepared for parsing. Length: 3862
+[2026-01-17 14:35:19] Attempting strict decode...
+[2026-01-17 14:35:19] Strict decode success!
+[2026-01-17 14:36:11] Received Request: Array
+(
+    [action] => add
+    [id] => 1768660568122
+    [name] => Lycra Jersey
+    [category] => Men's
+    [price] => 14
+    [oldPrice] => 
+    [image] => https://engine.com.pk/cdn/shop/files/FT6006-MRN_1.jpg?v=1768280764
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 14:36:11] File content length: 4206
+[2026-01-17 14:36:11] No BOM found
+[2026-01-17 14:36:11] UTF-8 cleaning done
+[2026-01-17 14:36:11] Content prepared for parsing. Length: 4188
+[2026-01-17 14:36:11] Attempting strict decode...
+[2026-01-17 14:36:11] Strict decode success!
+[2026-01-17 14:38:39] Received Request: Array
+(
+    [action] => add
+    [id] => 1768660716568
+    [name] => Jersey T-Shirt
+    [category] => Men's
+    [price] => 13
+    [oldPrice] => 
+    [image] => https://engine.com.pk/cdn/shop/files/FT6001-OLV_1.jpg?v=1767940129
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 14:38:39] File content length: 4533
+[2026-01-17 14:38:39] No BOM found
+[2026-01-17 14:38:39] UTF-8 cleaning done
+[2026-01-17 14:38:39] Content prepared for parsing. Length: 4515
+[2026-01-17 14:38:39] Attempting strict decode...
+[2026-01-17 14:38:39] Strict decode success!
+[2026-01-17 14:39:24] Received Request: Array
+(
+    [action] => add
+    [id] => 1768660761837
+    [name] => Jersey T-Shirt
+    [category] => Men's
+    [price] => 15
+    [oldPrice] => 
+    [image] => https://engine.com.pk/cdn/shop/files/FT6037-BLK_1.jpg?v=1768282220
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 14:39:24] File content length: 4862
+[2026-01-17 14:39:24] No BOM found
+[2026-01-17 14:39:24] UTF-8 cleaning done
+[2026-01-17 14:39:24] Content prepared for parsing. Length: 4844
+[2026-01-17 14:39:24] Attempting strict decode...
+[2026-01-17 14:39:24] Strict decode success!
+[2026-01-17 15:03:35] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662212413
+    [name] =>  Sports T-Shirt Women's - Dri-Fit Nylon Purple
+    [category] => Sports
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/16_09f2888a-d459-44cc-8a2c-6c45c6591957.jpg?v=1750484336&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:03:35] File content length: 12397
+[2026-01-17 15:03:35] No BOM found
+[2026-01-17 15:03:35] UTF-8 cleaning done
+[2026-01-17 15:03:35] Content prepared for parsing. Length: 12378
+[2026-01-17 15:03:35] Attempting strict decode...
+[2026-01-17 15:03:35] Strict decode failed: Syntax error. Trying loose parser.
+[2026-01-17 15:03:35] Starting loose parser (Single-Pass Tokenizer)...
+[2026-01-17 15:03:35] Tokenizer finished
+[2026-01-17 15:04:05] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662243501
+    [name] => Swimming Shirt Women's - Lycra Short Sleeve Black
+    [category] => Sports
+    [price] => 25
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/27_bfde1190-fc51-4f86-9805-1a8e3f4c2acd.jpg?v=1750246970&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:04:05] File content length: 14635
+[2026-01-17 15:04:05] No BOM found
+[2026-01-17 15:04:05] UTF-8 cleaning done
+[2026-01-17 15:04:05] Content prepared for parsing. Length: 14617
+[2026-01-17 15:04:05] Attempting strict decode...
+[2026-01-17 15:04:05] Strict decode success!
+[2026-01-17 15:05:26] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662323634
+    [name] => Women Sports Bra - BD Lycra Black
+    [category] => Sports
+    [price] => 24
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/APOLLOWomenSportsBra-BDLycraBlack2412100090602_1.jpg?v=1741852590&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:05:26] File content length: 12387
+[2026-01-17 15:05:26] No BOM found
+[2026-01-17 15:05:26] UTF-8 cleaning done
+[2026-01-17 15:05:26] Content prepared for parsing. Length: 12368
+[2026-01-17 15:05:26] Attempting strict decode...
+[2026-01-17 15:05:26] Strict decode failed: Syntax error. Trying loose parser.
+[2026-01-17 15:05:26] Starting loose parser (Single-Pass Tokenizer)...
+[2026-01-17 15:05:26] Tokenizer finished
+[2026-01-17 15:05:57] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662355489
+    [name] => Women Yoga Tight BD Lycra - Black
+    [category] => Sports
+    [price] => 23
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/APOLLOWomenYogaTightBDLycra-Black2412100080602_1.jpg?v=1741857698&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:05:57] File content length: 14621
+[2026-01-17 15:05:57] No BOM found
+[2026-01-17 15:05:57] UTF-8 cleaning done
+[2026-01-17 15:05:57] Content prepared for parsing. Length: 14603
+[2026-01-17 15:05:57] Attempting strict decode...
+[2026-01-17 15:05:57] Strict decode success!
+[2026-01-17 15:06:31] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662389809
+    [name] => Women Sports Bra BD Lycra - Light Pink
+    [category] => Sports
+    [price] => 24
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/ApollowomenSportsBraBD-Lycra32w905PINK4.jpg?v=1727331471&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:06:31] File content length: 15019
+[2026-01-17 15:06:31] No BOM found
+[2026-01-17 15:06:31] UTF-8 cleaning done
+[2026-01-17 15:06:31] Content prepared for parsing. Length: 15001
+[2026-01-17 15:06:31] Attempting strict decode...
+[2026-01-17 15:06:31] Strict decode success!
+[2026-01-17 15:07:04] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662422164
+    [name] => Sports T-Shirt Women's - Micro Mesh Polyester - Royal Blue
+    [category] => Sports
+    [price] => 33
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/APOLLOSportsT-ShirtWomens-MicroMeshPolyester2412100020302RoyalBlue_3.jpg?v=1724923471&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:07:04] File content length: 15413
+[2026-01-17 15:07:04] No BOM found
+[2026-01-17 15:07:04] UTF-8 cleaning done
+[2026-01-17 15:07:04] Content prepared for parsing. Length: 15395
+[2026-01-17 15:07:04] Attempting strict decode...
+[2026-01-17 15:07:04] Strict decode success!
+[2026-01-17 15:09:25] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662562691
+    [name] => Sports T-Shirt Women's - Cotton Dark Gray
+    [category] => Women's
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/APOLLOSportsT-ShirtWomens-Cotton2412100020103DGrey.jpg?v=1728886156&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:09:25] File content length: 15856
+[2026-01-17 15:09:25] No BOM found
+[2026-01-17 15:09:25] UTF-8 cleaning done
+[2026-01-17 15:09:25] Content prepared for parsing. Length: 15838
+[2026-01-17 15:09:25] Attempting strict decode...
+[2026-01-17 15:09:25] Strict decode success!
+[2026-01-17 15:10:06] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662604248
+    [name] => Sports T-Shirt Women's - Cotton Navy
+    [category] => Women's
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/APOLLOSportsT-ShirtWomens-Cotton2412100020101Navy_2.jpg?v=1728885502&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:10:06] File content length: 16265
+[2026-01-17 15:10:06] No BOM found
+[2026-01-17 15:10:06] UTF-8 cleaning done
+[2026-01-17 15:10:06] Content prepared for parsing. Length: 16247
+[2026-01-17 15:10:06] Attempting strict decode...
+[2026-01-17 15:10:06] Strict decode success!
+[2026-01-17 15:10:39] Received Request: Array
+(
+    [action] => add
+    [id] => 1768662636937
+    [name] => Sports T-Shirt Women's - Cotton White
+    [category] => Women's
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://apollosports.pk/cdn/shop/files/APOLLOSportsT-ShirtWomens-Cotton2412100020103White.jpg?v=1728886320&width=1600
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-17 15:10:39] File content length: 16670
+[2026-01-17 15:10:39] No BOM found
+[2026-01-17 15:10:39] UTF-8 cleaning done
+[2026-01-17 15:10:39] Content prepared for parsing. Length: 16652
+[2026-01-17 15:10:39] Attempting strict decode...
+[2026-01-17 15:10:39] Strict decode success!
+[2026-01-18 02:28:49] Received Request: Array
+(
+    [action] => delete
+    [id] => 928374
+)
+
+[2026-01-18 02:28:49] File content length: 20639
+[2026-01-18 02:28:49] No BOM found
+[2026-01-18 02:28:49] UTF-8 cleaning done
+[2026-01-18 02:28:49] Content prepared for parsing. Length: 20621
+[2026-01-18 02:28:49] Attempting strict decode...
+[2026-01-18 02:28:49] Strict decode success!
+[2026-01-18 02:28:58] Received Request: Array
+(
+    [action] => delete
+    [id] => 394021
+)
+
+[2026-01-18 02:28:58] File content length: 19827
+[2026-01-18 02:28:58] No BOM found
+[2026-01-18 02:28:58] UTF-8 cleaning done
+[2026-01-18 02:28:58] Content prepared for parsing. Length: 19809
+[2026-01-18 02:28:58] Attempting strict decode...
+[2026-01-18 02:28:58] Strict decode success!
+[2026-01-18 02:38:58] Received Request: Array
+(
+    [action] => add
+    [id] => 1768703935633
+    [name] => Graphic Print Crew
+    [category] => Men's
+    [price] => 15
+    [oldPrice] => 
+    [image] => https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4beb13293eec6c3ce43acfe9fd25a107.jpg?v=1727501223&quality=80
+    [badge] => Hot
+    [badgeColor] => 
+)
+
+[2026-01-18 02:38:58] File content length: 19425
+[2026-01-18 02:38:58] No BOM found
+[2026-01-18 02:38:58] UTF-8 cleaning done
+[2026-01-18 02:38:58] Content prepared for parsing. Length: 19407
+[2026-01-18 02:38:58] Attempting strict decode...
+[2026-01-18 02:38:58] Strict decode success!
+[2026-01-18 02:39:54] Received Request: Array
+(
+    [action] => delete
+    [id] => 304958
+)
+
+[2026-01-18 02:39:54] File content length: 19808
+[2026-01-18 02:39:54] No BOM found
+[2026-01-18 02:39:54] UTF-8 cleaning done
+[2026-01-18 02:39:54] Content prepared for parsing. Length: 19790
+[2026-01-18 02:39:54] Attempting strict decode...
+[2026-01-18 02:39:54] Strict decode success!
+[2026-01-18 02:40:07] Received Request: Array
+(
+    [action] => delete
+    [id] => 673920
+)
+
+[2026-01-18 02:40:07] File content length: 19440
+[2026-01-18 02:40:07] No BOM found
+[2026-01-18 02:40:07] UTF-8 cleaning done
+[2026-01-18 02:40:07] Content prepared for parsing. Length: 19422
+[2026-01-18 02:40:07] Attempting strict decode...
+[2026-01-18 02:40:07] Strict decode success!
+[2026-01-18 02:40:27] Received Request: Array
+(
+    [action] => delete
+    [id] => 891023
+)
+
+[2026-01-18 02:40:27] File content length: 19098
+[2026-01-18 02:40:27] No BOM found
+[2026-01-18 02:40:27] UTF-8 cleaning done
+[2026-01-18 02:40:27] Content prepared for parsing. Length: 19080
+[2026-01-18 02:40:27] Attempting strict decode...
+[2026-01-18 02:40:27] Strict decode success!
+[2026-01-18 02:40:46] Received Request: Array
+(
+    [action] => delete
+    [id] => 560567
+)
+
+[2026-01-18 02:40:46] File content length: 18738
+[2026-01-18 02:40:46] No BOM found
+[2026-01-18 02:40:46] UTF-8 cleaning done
+[2026-01-18 02:40:46] Content prepared for parsing. Length: 18720
+[2026-01-18 02:40:46] Attempting strict decode...
+[2026-01-18 02:40:46] Strict decode success!
+[2026-01-18 02:42:19] Received Request: Array
+(
+    [action] => edit
+    [id] => 654002
+    [name] => Yoga Leggings
+    [category] => Sports
+    [price] => 15
+    [oldPrice] => 
+    [image] => https://www.alibaba.com/product-detail/Women-High-Waisted-Leggings-with-Pockets_10000028962111.html
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 02:42:19] File content length: 18382
+[2026-01-18 02:42:19] No BOM found
+[2026-01-18 02:42:19] UTF-8 cleaning done
+[2026-01-18 02:42:19] Content prepared for parsing. Length: 18364
+[2026-01-18 02:42:19] Attempting strict decode...
+[2026-01-18 02:42:19] Strict decode success!
+[2026-01-18 02:43:18] Received Request: Array
+(
+    [action] => edit
+    [id] => 654002
+    [name] => Yoga Leggings
+    [category] => Sports
+    [price] => 15
+    [oldPrice] => 
+    [image] => https://nomadapparel.pk/products/high-waisted-leggings-black?srsltid=AfmBOopn3PvmCWNyyr1ljLYbEVGzbaBE5pSaP6BSiuVVqOtgkl2LYAur
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 02:43:18] File content length: 18378
+[2026-01-18 02:43:18] No BOM found
+[2026-01-18 02:43:18] UTF-8 cleaning done
+[2026-01-18 02:43:18] Content prepared for parsing. Length: 18360
+[2026-01-18 02:43:18] Attempting strict decode...
+[2026-01-18 02:43:18] Strict decode success!
+[2026-01-18 02:44:04] Received Request: Array
+(
+    [action] => edit
+    [id] => 654002
+    [name] => Yoga Leggings 
+    [category] => Sports
+    [price] => 15
+    [oldPrice] => 
+    [image] => https://nomadapparel.pk/cdn/shop/files/Untitled_1000x1250px_10_a4360f1f-7a77-45e9-a8f3-c42b3d0e0a97.jpg?v=1767272545&width=840
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 02:44:04] File content length: 18404
+[2026-01-18 02:44:04] No BOM found
+[2026-01-18 02:44:04] UTF-8 cleaning done
+[2026-01-18 02:44:04] Content prepared for parsing. Length: 18386
+[2026-01-18 02:44:04] Attempting strict decode...
+[2026-01-18 02:44:04] Strict decode success!
+[2026-01-18 02:44:41] Received Request: Array
+(
+    [action] => edit
+    [id] => 654002
+    [name] => Yoga Leggings With Pocket
+    [category] => Sports
+    [price] => 15
+    [oldPrice] => 
+    [image] => https://nomadapparel.pk/cdn/shop/files/Untitled_1000x1250px_10_a4360f1f-7a77-45e9-a8f3-c42b3d0e0a97.jpg?v=1767272545&width=840
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 02:44:41] File content length: 18406
+[2026-01-18 02:44:41] No BOM found
+[2026-01-18 02:44:41] UTF-8 cleaning done
+[2026-01-18 02:44:41] Content prepared for parsing. Length: 18388
+[2026-01-18 02:44:41] Attempting strict decode...
+[2026-01-18 02:44:41] Strict decode success!
+[2026-01-18 02:52:15] Received Request: Array
+(
+    [action] => edit
+    [id] => 891244
+    [name] => Sport Performance Polo
+    [category] => Sports
+    [price] => 20
+    [oldPrice] => 
+    [image] => https://m.media-amazon.com/images/I/61Z1AWSc07L._AC_SX679_.jpg
+    [badge] => New
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 02:52:15] File content length: 18417
+[2026-01-18 02:52:15] No BOM found
+[2026-01-18 02:52:15] UTF-8 cleaning done
+[2026-01-18 02:52:15] Content prepared for parsing. Length: 18399
+[2026-01-18 02:52:15] Attempting strict decode...
+[2026-01-18 02:52:15] Strict decode success!
+[2026-01-18 02:54:15] Received Request: Array
+(
+    [action] => edit
+    [id] => 560234
+    [name] => Striped Cotton Polo
+    [category] => Kids
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://m.media-amazon.com/images/I/71hIVgR36JL._AC_SX679_.jpg
+    [badge] => 
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 02:54:15] File content length: 18386
+[2026-01-18 02:54:15] No BOM found
+[2026-01-18 02:54:15] UTF-8 cleaning done
+[2026-01-18 02:54:15] Content prepared for parsing. Length: 18368
+[2026-01-18 02:54:15] Attempting strict decode...
+[2026-01-18 02:54:15] Strict decode success!
+[2026-01-18 02:54:35] Received Request: Array
+(
+    [action] => edit
+    [id] => 560234
+    [name] => Striped Cotton Polo
+    [category] => Men's
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://m.media-amazon.com/images/I/71hIVgR36JL._AC_SX679_.jpg
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 02:54:35] File content length: 18345
+[2026-01-18 02:54:35] No BOM found
+[2026-01-18 02:54:35] UTF-8 cleaning done
+[2026-01-18 02:54:35] Content prepared for parsing. Length: 18327
+[2026-01-18 02:54:35] Attempting strict decode...
+[2026-01-18 02:54:35] Strict decode success!
+[2026-01-18 02:55:44] Received Request: Array
+(
+    [action] => edit
+    [id] => 482910
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 17
+    [oldPrice] => 
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => Sale
+    [badgeColor] => 
+)
+
+[2026-01-18 02:55:44] File content length: 18346
+[2026-01-18 02:55:44] No BOM found
+[2026-01-18 02:55:44] UTF-8 cleaning done
+[2026-01-18 02:55:44] Content prepared for parsing. Length: 18328
+[2026-01-18 02:55:44] Attempting strict decode...
+[2026-01-18 02:55:44] Strict decode success!
+[2026-01-18 02:55:58] Received Request: Array
+(
+    [action] => edit
+    [id] => 482910
+    [name] => Premium Cotton T-Shirt
+    [category] => Men's
+    [price] => 17
+    [oldPrice] => 
+    [image] => https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 02:55:58] File content length: 18320
+[2026-01-18 02:55:58] No BOM found
+[2026-01-18 02:55:58] UTF-8 cleaning done
+[2026-01-18 02:55:58] Content prepared for parsing. Length: 18302
+[2026-01-18 02:55:58] Attempting strict decode...
+[2026-01-18 02:55:58] Strict decode success!
+[2026-01-18 03:02:20] Received Request: Array
+(
+    [action] => edit
+    [id] => 582103
+    [name] => Oversized Beige Tee
+    [category] => Men's
+    [price] => 16
+    [oldPrice] => 20
+    [image] => https://terafto.com/cdn/shop/files/IMG-20250310_000701.png?v=1741549132&width=3840
+    [badge] => Sale
+    [badgeColor] => 
+)
+
+[2026-01-18 03:02:20] File content length: 18316
+[2026-01-18 03:02:20] No BOM found
+[2026-01-18 03:02:20] UTF-8 cleaning done
+[2026-01-18 03:02:20] Content prepared for parsing. Length: 18298
+[2026-01-18 03:02:20] Attempting strict decode...
+[2026-01-18 03:02:20] Strict decode success!
+[2026-01-18 03:04:42] Received Request: Array
+(
+    [action] => edit
+    [id] => 305821
+    [name] => Striped Casual Polo
+    [category] => Men's
+    [price] => 19
+    [oldPrice] => 
+    [image] => https://antoniosclothing.com/cdn/shop/products/stripedsummert-shirt.jpg?v=1740985317&width=5000
+    [badge] => 
+    [badgeColor] => bg-black
+)
+
+[2026-01-18 03:04:42] File content length: 18284
+[2026-01-18 03:04:42] No BOM found
+[2026-01-18 03:04:42] UTF-8 cleaning done
+[2026-01-18 03:04:42] Content prepared for parsing. Length: 18266
+[2026-01-18 03:04:42] Attempting strict decode...
+[2026-01-18 03:04:42] Strict decode success!
+[2026-01-18 03:06:37] Received Request: Array
+(
+    [action] => edit
+    [id] => 406192
+    [name] => Urban Cargo Pants
+    [category] => Men's
+    [price] => 27
+    [oldPrice] => 32
+    [image] => https://techwear.store/cdn/shop/products/urban-cargo-pants_1_1080x.png?v=1643722085
+    [badge] => Sale
+    [badgeColor] => bg-black
+)
+
+[2026-01-18 03:06:37] File content length: 18284
+[2026-01-18 03:06:37] No BOM found
+[2026-01-18 03:06:37] UTF-8 cleaning done
+[2026-01-18 03:06:37] Content prepared for parsing. Length: 18266
+[2026-01-18 03:06:37] Attempting strict decode...
+[2026-01-18 03:06:37] Strict decode success!
+[2026-01-18 03:08:42] Received Request: Array
+(
+    [action] => edit
+    [id] => 405923
+    [name] => Beige Cotton Chinos
+    [category] => Men's
+    [price] => 30
+    [oldPrice] => 
+    [image] => https://menssuitwarehouse.com.au/cdn/shop/files/boulvandre-mens-chino-pant-in-beige-cotton-side_900x.png?v=1685412280
+    [badge] => New
+    [badgeColor] => 
+)
+
+[2026-01-18 03:08:42] File content length: 18286
+[2026-01-18 03:08:42] No BOM found
+[2026-01-18 03:08:42] UTF-8 cleaning done
+[2026-01-18 03:08:42] Content prepared for parsing. Length: 18268
+[2026-01-18 03:08:42] Attempting strict decode...
+[2026-01-18 03:08:42] Strict decode success!
+[2026-01-18 03:13:18] Received Request: Array
+(
+    [action] => edit
+    [id] => 782019
+    [name] => Essential White V-Neck
+    [category] => Women's
+    [price] => 14.99
+    [oldPrice] => 
+    [image] => https://images.byflou.com/13/3/images/products/0/0/selected-femme-t-shirt-selected-femme-slfmyessential-ss-o-neck-tee-66a8f4107651e-white-1536087.png.jpg
+    [badge] => New
+    [badgeColor] => 
+)
+
+[2026-01-18 03:13:18] File content length: 18310
+[2026-01-18 03:13:18] No BOM found
+[2026-01-18 03:13:18] UTF-8 cleaning done
+[2026-01-18 03:13:18] Content prepared for parsing. Length: 18292
+[2026-01-18 03:13:18] Attempting strict decode...
+[2026-01-18 03:13:18] Strict decode success!
+[2026-01-18 03:16:48] Received Request: Array
+(
+    [action] => edit
+    [id] => 782145
+    [name] => Striped Boxy Tee
+    [category] => Women's
+    [price] => 19.5
+    [oldPrice] => 23
+    [image] => https://cdn.jarrolds.co.uk/products-temp/selected-femme/selected_femme-striped_box_tee_white_black%7Bw=300,h=300%7D.webp
+    [badge] => Sale
+    [badgeColor] => 
+)
+
+[2026-01-18 03:16:48] File content length: 18355
+[2026-01-18 03:16:48] No BOM found
+[2026-01-18 03:16:48] UTF-8 cleaning done
+[2026-01-18 03:16:48] Content prepared for parsing. Length: 18337
+[2026-01-18 03:16:48] Attempting strict decode...
+[2026-01-18 03:16:48] Strict decode success!
+[2026-01-18 03:21:13] Received Request: Array
+(
+    [action] => edit
+    [id] => 901234
+    [name] => Oversized Hoodie
+    [category] => Women's
+    [price] => 18
+    [oldPrice] => 22
+    [image] => https://images.wonder-raw.com/uploads/file-1753530606782-240448519.png
+    [badge] => Hot
+    [badgeColor] => 
+)
+
+[2026-01-18 03:21:13] File content length: 18375
+[2026-01-18 03:21:13] No BOM found
+[2026-01-18 03:21:13] UTF-8 cleaning done
+[2026-01-18 03:21:13] Content prepared for parsing. Length: 18357
+[2026-01-18 03:21:13] Attempting strict decode...
+[2026-01-18 03:21:13] Strict decode success!
+[2026-01-18 03:22:51] Received Request: Array
+(
+    [action] => edit
+    [id] => 901235
+    [name] => Cropped Fleece Hoodie
+    [category] => Women's
+    [price] => 20
+    [oldPrice] => 
+    [image] => https://www.otlapparel.shop/cdn/shop/products/image_1056x1056.png?v=1595528121
+    [badge] => 
+    [badgeColor] => bg-black
+)
+
+[2026-01-18 03:22:51] File content length: 18334
+[2026-01-18 03:22:51] No BOM found
+[2026-01-18 03:22:51] UTF-8 cleaning done
+[2026-01-18 03:22:51] Content prepared for parsing. Length: 18316
+[2026-01-18 03:22:51] Attempting strict decode...
+[2026-01-18 03:22:51] Strict decode success!
+[2026-01-18 03:25:56] Received Request: Array
+(
+    [action] => edit
+    [id] => 912301
+    [name] => High-Waist Mom Jeans
+    [category] => Women's
+    [price] => 30
+    [oldPrice] => 35
+    [image] => https://pin.it/3TUjg7dVp
+    [badge] => Sale
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 03:25:56] File content length: 18320
+[2026-01-18 03:25:56] No BOM found
+[2026-01-18 03:25:56] UTF-8 cleaning done
+[2026-01-18 03:25:56] Content prepared for parsing. Length: 18302
+[2026-01-18 03:25:56] Attempting strict decode...
+[2026-01-18 03:25:56] Strict decode success!
+[2026-01-18 03:28:06] Received Request: Array
+(
+    [action] => edit
+    [id] => 912301
+    [name] => High-Waist Mom Jeans
+    [category] => Women's
+    [price] => 30
+    [oldPrice] => 35
+    [image] => https://freepngimg.com/thumb/jacket/84451-pocket-topshop-jeans-denim-mom-free-frame.png
+    [badge] => Sale
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 03:28:06] File content length: 18251
+[2026-01-18 03:28:06] No BOM found
+[2026-01-18 03:28:06] UTF-8 cleaning done
+[2026-01-18 03:28:06] Content prepared for parsing. Length: 18233
+[2026-01-18 03:28:06] Attempting strict decode...
+[2026-01-18 03:28:06] Strict decode success!
+[2026-01-18 03:34:47] Received Request: Array
+(
+    [action] => edit
+    [id] => 934501
+    [name] => Denim Summer Shorts
+    [category] => Women's
+    [price] => 26.99
+    [oldPrice] => 
+    [image] => https://cms.brnstc.de/product_images/2244x3072p/cpro/media/images/product/24/10/100167482617000_0_1728040222674.webp
+    [badge] => New
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 03:34:47] File content length: 18314
+[2026-01-18 03:34:47] No BOM found
+[2026-01-18 03:34:47] UTF-8 cleaning done
+[2026-01-18 03:34:47] Content prepared for parsing. Length: 18296
+[2026-01-18 03:34:47] Attempting strict decode...
+[2026-01-18 03:34:47] Strict decode success!
+[2026-01-18 03:36:42] Received Request: Array
+(
+    [action] => edit
+    [id] => 560123
+    [name] => Dino Adventure Tee
+    [category] => Kids
+    [price] => 14
+    [oldPrice] => 
+    [image] => https://m.media-amazon.com/images/I/A1dbsmzbGeL._CLa%7C2140%2C2000%7C91lNkQR3evL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679_.png
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 03:36:42] File content length: 18335
+[2026-01-18 03:36:42] No BOM found
+[2026-01-18 03:36:42] UTF-8 cleaning done
+[2026-01-18 03:36:42] Content prepared for parsing. Length: 18317
+[2026-01-18 03:36:42] Attempting strict decode...
+[2026-01-18 03:36:42] Strict decode success!
+[2026-01-18 03:39:59] Received Request: Array
+(
+    [action] => edit
+    [id] => 923405
+    [name] => Graphic Print Crew
+    [category] => Women's
+    [price] => 17
+    [oldPrice] => 
+    [image] => https://pngtree.com/freepng/mental-health-design-for-womens-tshirt-in-minimalistic-style_21147091.html
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 03:39:59] File content length: 18374
+[2026-01-18 03:39:59] No BOM found
+[2026-01-18 03:39:59] UTF-8 cleaning done
+[2026-01-18 03:39:59] Content prepared for parsing. Length: 18356
+[2026-01-18 03:39:59] Attempting strict decode...
+[2026-01-18 03:39:59] Strict decode success!
+[2026-01-18 03:41:35] Received Request: Array
+(
+    [action] => edit
+    [id] => 923405
+    [name] => Graphic Print Crew
+    [category] => Women's
+    [price] => 17
+    [oldPrice] => 
+    [image] => https://i.etsystatic.com/47152640/r/il/c03945/6234607258/il_75x75.6234607258_nbbb.jpg
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 03:41:35] File content length: 18367
+[2026-01-18 03:41:35] No BOM found
+[2026-01-18 03:41:35] UTF-8 cleaning done
+[2026-01-18 03:41:35] Content prepared for parsing. Length: 18349
+[2026-01-18 03:41:35] Attempting strict decode...
+[2026-01-18 03:41:35] Strict decode success!
+[2026-01-18 03:43:35] Received Request: Array
+(
+    [action] => edit
+    [id] => 560345
+    [name] => Yellow Sunshine Hoodie
+    [category] => Kids
+    [price] => 14
+    [oldPrice] => 19
+    [image] => https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/5/1/51o9QC4mjyL_14.jpg
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 03:43:35] File content length: 18350
+[2026-01-18 03:43:35] No BOM found
+[2026-01-18 03:43:35] UTF-8 cleaning done
+[2026-01-18 03:43:35] Content prepared for parsing. Length: 18332
+[2026-01-18 03:43:35] Attempting strict decode...
+[2026-01-18 03:43:35] Strict decode success!
+[2026-01-18 03:46:12] Received Request: Array
+(
+    [action] => edit
+    [id] => 934502
+    [name] => Linen Casual Shorts
+    [category] => Women's
+    [price] => 20
+    [oldPrice] => 23
+    [image] => https://m.media-amazon.com/images/I/51wXKKxT28L._AC_SX679_.jpg
+    [badge] => New
+    [badgeColor] => bg-green-500
+)
+
+[2026-01-18 03:46:12] File content length: 18383
+[2026-01-18 03:46:12] No BOM found
+[2026-01-18 03:46:12] UTF-8 cleaning done
+[2026-01-18 03:46:12] Content prepared for parsing. Length: 18365
+[2026-01-18 03:46:12] Attempting strict decode...
+[2026-01-18 03:46:12] Strict decode success!
+[2026-01-18 03:51:18] Received Request: Array
+(
+    [action] => edit
+    [id] => 654110
+    [name] => Women Sports Bra - Black
+    [category] => Sports
+    [price] => 18
+    [oldPrice] => 
+    [image] => https://shescience.com.au/cdn/shop/files/PanacheSportUltraPerformBlack5022_480x480.png?v=1701295410
+    [badge] => New
+    [badgeColor] => bg-black
+)
+
+[2026-01-18 03:51:18] File content length: 18352
+[2026-01-18 03:51:18] No BOM found
+[2026-01-18 03:51:18] UTF-8 cleaning done
+[2026-01-18 03:51:18] Content prepared for parsing. Length: 18334
+[2026-01-18 03:51:18] Attempting strict decode...
+[2026-01-18 03:51:18] Strict decode success!
+[2026-01-18 03:55:04] Received Request: Array
+(
+    [action] => edit
+    [id] => 654120
+    [name] => Women Sports Bra - Light Pink
+    [category] => Sports
+    [price] => 24
+    [oldPrice] => 30
+    [image] => https://cdn.pairadize.com/wp-content/uploads/2023/06/View04_lightPink_Sport-Bra_b-864x1536.png
+    [badge] => Sale
+    [badgeColor] => 
+)
+
+[2026-01-18 03:55:04] File content length: 18343
+[2026-01-18 03:55:04] No BOM found
+[2026-01-18 03:55:04] UTF-8 cleaning done
+[2026-01-18 03:55:04] Content prepared for parsing. Length: 18325
+[2026-01-18 03:55:04] Attempting strict decode...
+[2026-01-18 03:55:04] Strict decode success!
+[2026-01-18 03:57:50] Received Request: Array
+(
+    [action] => edit
+    [id] => 654125
+    [name] => Sports Micro Mesh Tee - Blue
+    [category] => Sports
+    [price] => 20
+    [oldPrice] => 
+    [image] => https://cdn11.bigcommerce.com/s-m402tu6jk1/images/stencil/75x100/products/16935/114706/ct1207-ryl__23207.1747260073.JPG?c=1
+    [badge] => 
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 03:57:50] File content length: 18322
+[2026-01-18 03:57:50] No BOM found
+[2026-01-18 03:57:50] UTF-8 cleaning done
+[2026-01-18 03:57:50] Content prepared for parsing. Length: 18304
+[2026-01-18 03:57:50] Attempting strict decode...
+[2026-01-18 03:57:50] Strict decode success!
+[2026-01-18 04:03:05] Received Request: Array
+(
+    [action] => edit
+    [id] => 560678
+    [name] => Summer Cotton Shorts
+    [category] => Kids
+    [price] => 10
+    [oldPrice] => 
+    [image] => https://assets.theplace.com/image/upload/t_pdp_img_m,f_auto,q_auto/v1/ecom/assets/products/tcp/3052581/3052581_33FL.png
+    [badge] => 
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 04:03:05] File content length: 18310
+[2026-01-18 04:03:05] No BOM found
+[2026-01-18 04:03:05] UTF-8 cleaning done
+[2026-01-18 04:03:05] Content prepared for parsing. Length: 18292
+[2026-01-18 04:03:05] Attempting strict decode...
+[2026-01-18 04:03:05] Strict decode success!
+[2026-01-18 04:06:49] Received Request: Array
+(
+    [action] => edit
+    [id] => 560456
+    [name] => Graphic Crew Neck
+    [category] => Kids
+    [price] => 14
+    [oldPrice] => 
+    [image] => https://m.media-amazon.com/images/I/41otvajJ85L._AC_SR38,50_.jpg
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 04:06:49] File content length: 18334
+[2026-01-18 04:06:49] No BOM found
+[2026-01-18 04:06:49] UTF-8 cleaning done
+[2026-01-18 04:06:49] Content prepared for parsing. Length: 18316
+[2026-01-18 04:06:49] Attempting strict decode...
+[2026-01-18 04:06:49] Strict decode success!
+[2026-01-18 04:11:32] Received Request: Array
+(
+    [action] => edit
+    [id] => 923405
+    [name] => Graphic Print Crew
+    [category] => Women's
+    [price] => 17
+    [oldPrice] => 
+    [image] => https://www.offspringclothing.com/cdn/shop/files/123009_900x.jpg?v=1745049257
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 04:11:32] File content length: 18306
+[2026-01-18 04:11:32] No BOM found
+[2026-01-18 04:11:32] UTF-8 cleaning done
+[2026-01-18 04:11:32] Content prepared for parsing. Length: 18288
+[2026-01-18 04:11:32] Attempting strict decode...
+[2026-01-18 04:11:32] Strict decode success!
+[2026-01-18 04:16:23] Received Request: Array
+(
+    [action] => edit
+    [id] => 923401
+    [name] => Crew Sweatshirt
+    [category] => Women's
+    [price] => 17
+    [oldPrice] => 21
+    [image] => https://s.alicdn.com/@sc04/kf/H77c7ecc29a8b44e19385a0a0042111d0d.jpg?avif=close&webp=close
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 04:16:23] File content length: 18298
+[2026-01-18 04:16:23] No BOM found
+[2026-01-18 04:16:23] UTF-8 cleaning done
+[2026-01-18 04:16:23] Content prepared for parsing. Length: 18280
+[2026-01-18 04:16:23] Attempting strict decode...
+[2026-01-18 04:16:23] Strict decode success!
+[2026-01-18 04:17:46] Received Request: Array
+(
+    [action] => edit
+    [id] => 912305
+    [name] => Tailored Beige Trousers
+    [category] => Women's
+    [price] => 20
+    [oldPrice] => 
+    [image] => https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=800&q=80
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 04:17:46] File content length: 18286
+[2026-01-18 04:17:46] No BOM found
+[2026-01-18 04:17:46] UTF-8 cleaning done
+[2026-01-18 04:17:46] Content prepared for parsing. Length: 18268
+[2026-01-18 04:17:46] Attempting strict decode...
+[2026-01-18 04:17:46] Strict decode success!
+[2026-01-18 04:37:21] Received Request: Array
+(
+    [action] => edit
+    [id] => 783201
+    [name] => Parallel Track Set
+    [category] => Women's
+    [price] => 25
+    [oldPrice] => 
+    [image] => https://www.secondpagesport.com/storage/uploads/images/202512/10/1765351396_KMM2DhJlxE.webp
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 04:37:21] File content length: 18271
+[2026-01-18 04:37:21] No BOM found
+[2026-01-18 04:37:21] UTF-8 cleaning done
+[2026-01-18 04:37:21] Content prepared for parsing. Length: 18253
+[2026-01-18 04:37:21] Attempting strict decode...
+[2026-01-18 04:37:21] Strict decode success!
+[2026-01-18 04:41:07] Received Request: Array
+(
+    [action] => edit
+    [id] => 783205
+    [name] => Hoodie & Sweatpants Set 
+    [category] => Women's
+    [price] => 25
+    [oldPrice] => 
+    [image] => https://www.secondpagesport.com/storage/uploads/images/202510/11/1760168399_nlSReVPR7I.webp
+    [badge] => 
+    [badgeColor] => bg-red-500
+)
+
+[2026-01-18 04:41:07] File content length: 18281
+[2026-01-18 04:41:07] No BOM found
+[2026-01-18 04:41:07] UTF-8 cleaning done
+[2026-01-18 04:41:07] Content prepared for parsing. Length: 18263
+[2026-01-18 04:41:07] Attempting strict decode...
+[2026-01-18 04:41:07] Strict decode success!
+[2026-01-18 04:42:37] Received Request: Array
+(
+    [action] => edit
+    [id] => 783209
+    [name] => Sports Bra & Straight-Leg Pants Set
+    [category] => Women's
+    [price] => 25
+    [oldPrice] => 
+    [image] => https://www.secondpagesport.com/storage/uploads/images/202511/06/1762399524_CQuEETqIsq.webp
+    [badge] => 
+    [badgeColor] => bg-black
+)
+
+[2026-01-18 04:42:37] File content length: 18290
+[2026-01-18 04:42:37] No BOM found
+[2026-01-18 04:42:37] UTF-8 cleaning done
+[2026-01-18 04:42:37] Content prepared for parsing. Length: 18272
+[2026-01-18 04:42:37] Attempting strict decode...
+[2026-01-18 04:42:37] Strict decode success!
+[2026-01-18 04:46:48] Received Request: Array
+(
+    [action] => edit
+    [id] => 783311
+    [name] =>  Tie And Dye Women Sweatshirt
+    [category] => Women's
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2020/10/bulk-tie-and-dye-women-sweatshirt.jpeg
+    [badge] => 
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 04:46:48] File content length: 18316
+[2026-01-18 04:46:48] No BOM found
+[2026-01-18 04:46:48] UTF-8 cleaning done
+[2026-01-18 04:46:48] Content prepared for parsing. Length: 18298
+[2026-01-18 04:46:48] Attempting strict decode...
+[2026-01-18 04:46:48] Strict decode success!
+[2026-01-18 04:49:01] Received Request: Array
+(
+    [action] => edit
+    [id] => 783315
+    [name] => Women’s Pleated Spring Shirt 
+    [category] => Women's
+    [price] => 22
+    [oldPrice] => 
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2024/04/Womens-Pleated-Spring-Shirt.jpg
+    [badge] => New
+    [badgeColor] => bg-green-500
+)
+
+[2026-01-18 04:49:01] File content length: 18305
+[2026-01-18 04:49:01] No BOM found
+[2026-01-18 04:49:01] UTF-8 cleaning done
+[2026-01-18 04:49:01] Content prepared for parsing. Length: 18287
+[2026-01-18 04:49:01] Attempting strict decode...
+[2026-01-18 04:49:01] Strict decode success!
+[2026-01-18 04:53:10] Received Request: Array
+(
+    [action] => edit
+    [id] => 783420
+    [name] => White Summer Top
+    [category] => Women's
+    [price] => 18
+    [oldPrice] => 24
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2024/05/Minority-Womens-Summer-Tops.jpg
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 04:53:10] File content length: 18304
+[2026-01-18 04:53:10] No BOM found
+[2026-01-18 04:53:10] UTF-8 cleaning done
+[2026-01-18 04:53:10] Content prepared for parsing. Length: 18286
+[2026-01-18 04:53:10] Attempting strict decode...
+[2026-01-18 04:53:10] Strict decode success!
+[2026-01-18 04:54:25] Received Request: Array
+(
+    [action] => edit
+    [id] => 783422
+    [name] => Oversized Cropped Cotton T-Shirt
+    [category] => Women's
+    [price] => 18
+    [oldPrice] => 24
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2024/06/Custom-Oversized-Cropped-Cotton-T-Shirt-for-Women-1.jpg
+    [badge] => 
+    [badgeColor] => bg-blue-500
+)
+
+[2026-01-18 04:54:25] File content length: 18258
+[2026-01-18 04:54:25] No BOM found
+[2026-01-18 04:54:25] UTF-8 cleaning done
+[2026-01-18 04:54:25] Content prepared for parsing. Length: 18240
+[2026-01-18 04:54:25] Attempting strict decode...
+[2026-01-18 04:54:25] Strict decode success!
+[2026-01-18 04:58:55] Received Request: Array
+(
+    [action] => edit
+    [id] => 783425
+    [name] => Printed Short Sleeve  Top
+    [category] => Women's
+    [price] => 18
+    [oldPrice] => 24
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2020/05/Custom-Printed-Short-Sleeve-Women-Top.jpeg
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 04:58:55] File content length: 18254
+[2026-01-18 04:58:55] No BOM found
+[2026-01-18 04:58:55] UTF-8 cleaning done
+[2026-01-18 04:58:55] Content prepared for parsing. Length: 18236
+[2026-01-18 04:58:55] Attempting strict decode...
+[2026-01-18 04:58:55] Strict decode success!
+[2026-01-18 05:00:26] Received Request: Array
+(
+    [action] => edit
+    [id] => 783550
+    [name] => Black Fleece Jacket
+    [category] => Women's
+    [price] => 24
+    [oldPrice] => 
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2024/03/Black-Women-Fleece-Jacket.jpg
+    [badge] => 
+    [badgeColor] => bg-black
+)
+
+[2026-01-18 05:00:26] File content length: 18237
+[2026-01-18 05:00:26] No BOM found
+[2026-01-18 05:00:26] UTF-8 cleaning done
+[2026-01-18 05:00:26] Content prepared for parsing. Length: 18219
+[2026-01-18 05:00:26] Attempting strict decode...
+[2026-01-18 05:00:26] Strict decode success!
+[2026-01-18 05:01:28] Received Request: Array
+(
+    [action] => edit
+    [id] => 783552
+    [name] => Black Sherpa Fleece Jacket
+    [category] => Women's
+    [price] => 24
+    [oldPrice] => 
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2024/04/Black-Women-Sherpa-fleece-jacket-.jpg
+    [badge] => 
+    [badgeColor] => bg-black
+)
+
+[2026-01-18 05:01:28] File content length: 18215
+[2026-01-18 05:01:28] No BOM found
+[2026-01-18 05:01:28] UTF-8 cleaning done
+[2026-01-18 05:01:28] Content prepared for parsing. Length: 18197
+[2026-01-18 05:01:28] Attempting strict decode...
+[2026-01-18 05:01:28] Strict decode success!
+[2026-01-18 05:03:04] Received Request: Array
+(
+    [action] => edit
+    [id] => 783555
+    [name] => Color Block Workout Jacket
+    [category] => Women's
+    [price] => 24
+    [oldPrice] => 
+    [image] => https://www.usaclothingmanufacturers.com/wp-content/uploads/2018/12/color-block-women-workout-jacket.jpg
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 05:03:04] File content length: 18204
+[2026-01-18 05:03:04] No BOM found
+[2026-01-18 05:03:04] UTF-8 cleaning done
+[2026-01-18 05:03:04] Content prepared for parsing. Length: 18186
+[2026-01-18 05:03:04] Attempting strict decode...
+[2026-01-18 05:03:04] Strict decode success!
+[2026-01-18 05:09:27] Received Request: Array
+(
+    [action] => delete
+    [id] => 783558
+)
+
+[2026-01-18 05:09:27] File content length: 18196
+[2026-01-18 05:09:27] No BOM found
+[2026-01-18 05:09:27] UTF-8 cleaning done
+[2026-01-18 05:09:27] Content prepared for parsing. Length: 18178
+[2026-01-18 05:09:27] Attempting strict decode...
+[2026-01-18 05:09:27] Strict decode success!
+[2026-01-18 05:11:55] Received Request: Array
+(
+    [action] => edit
+    [id] => 560456
+    [name] => Lion King Graphic Print Boys Sweatshirt
+    [category] => Kids
+    [price] => 14
+    [oldPrice] => 
+    [image] => https://diners.com.pk/cdn/shop/files/KBP0153-Yellow-01_2000x.webp?v=1734353159
+    [badge] => 
+    [badgeColor] => 
+)
+
+[2026-01-18 05:11:55] File content length: 17799
+[2026-01-18 05:11:55] No BOM found
+[2026-01-18 05:11:55] UTF-8 cleaning done
+[2026-01-18 05:11:55] Content prepared for parsing. Length: 17781
+[2026-01-18 05:11:55] Attempting strict decode...
+[2026-01-18 05:11:55] Strict decode success!

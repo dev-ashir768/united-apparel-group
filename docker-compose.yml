@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  php:
+    build: .
+    container_name: united-apparel-group
+    volumes:
+      - .:/var/www/html
+    networks:
+      - united-apparel-group-network
+      - web_network
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.united-apparel-group-php.rule=Host(`united-apparel-group.lvh.me`)"
+      - "traefik.http.routers.united-apparel-group-php.entrypoints=web"
+      - "traefik.http.services.united-apparel-group-php.loadbalancer.server.port=80"
+      - "traefik.docker.network=web_network"
+
+networks:
+  united-apparel-group-network:
+    driver: bridge
+  web_network:
+    external: true

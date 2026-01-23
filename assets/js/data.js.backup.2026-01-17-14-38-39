@@ -1,0 +1,132 @@
+const products = {
+    "bestSellers": [
+        {
+            "id": 101,
+            "name": "Premium Cotton T-Shirt",
+            "price": 34.99,
+            "oldPrice": 53.99,
+            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+            "category": "Men's",
+            "badge": "Sale",
+            "badgeColor": "bg-blue-500"
+        },
+        {
+            "id": 103,
+            "name": "Floral Summer Dress",
+            "price": 55,
+            "oldPrice": 75,
+            "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+            "category": "Women's",
+            "badge": "Sale",
+            "badgeColor": "bg-green-500"
+        },
+        {
+            "id": 104,
+            "name": "Kids Dinosaur Tee",
+            "price": 18,
+            "oldPrice": null,
+            "image": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=80",
+            "category": "Kids",
+            "badge": null,
+            "badgeColor": null
+        },
+        {
+            "id": 1768656621681,
+            "name": "Tumbler",
+            "price": 150,
+            "oldPrice": 201,
+            "image": "https://img.freepik.com/free-photo/hand-holding-thermos-mock-up-yellow-background_23-2148295782.jpg?t=st=1768658552~exp=1768662152~hmac=49a2a6f3baede604fba472473fe445b65e1012adeb999523fb707a70ec3f6c7d&w=2000",
+            "category": "Sports",
+            "badge": null,
+            "badgeColor": null
+        }
+    ],
+    "men": [
+        {
+            "id": 101,
+            "name": "Premium Cotton T-Shirt",
+            "price": 34.99,
+            "oldPrice": 53.99,
+            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+            "category": "Men's",
+            "badge": "Sale",
+            "badgeColor": "bg-blue-500"
+        },
+        {
+            "id": 1768658672052,
+            "name": "Men Slim Fit Denim",
+            "price": 99.99,
+            "oldPrice": 120,
+            "image": "https://engine.com.pk/cdn/shop/files/FD5139-BLU_2.jpg?v=1761740762",
+            "category": "Men's",
+            "badge": "Sale",
+            "badgeColor": "bg-black"
+        },
+        {
+            "id": 1768660459357,
+            "name": "Men T Shirt",
+            "price": 20,
+            "oldPrice": null,
+            "image": "https://engine.com.pk/cdn/shop/files/FT6004-NVY_1.jpg?v=1768201952",
+            "category": "Men's",
+            "badge": null,
+            "badgeColor": null
+        },
+        {
+            "id": 1768660517114,
+            "name": "Men T Shirt",
+            "price": 20,
+            "oldPrice": null,
+            "image": "https://engine.com.pk/cdn/shop/files/FT6019-HGY_2.jpg?v=1768202570",
+            "category": "Men's",
+            "badge": null,
+            "badgeColor": null
+        },
+        {
+            "id": 1768660568122,
+            "name": "Lycra Jersey",
+            "price": 14,
+            "oldPrice": null,
+            "image": "https://engine.com.pk/cdn/shop/files/FT6006-MRN_1.jpg?v=1768280764",
+            "category": "Men's",
+            "badge": null,
+            "badgeColor": null
+        }
+    ],
+    "women": [
+        {
+            "id": 103,
+            "name": "Floral Summer Dress",
+            "price": 55,
+            "oldPrice": 75,
+            "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+            "category": "Women's",
+            "badge": "Sale",
+            "badgeColor": "bg-green-500"
+        }
+    ],
+    "kids": [
+        {
+            "id": 104,
+            "name": "Kids Dinosaur Tee",
+            "price": 18,
+            "oldPrice": null,
+            "image": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format&fit=crop&w=800&q=80",
+            "category": "Kids",
+            "badge": null,
+            "badgeColor": null
+        }
+    ],
+    "sports": [
+        {
+            "id": 1768656621681,
+            "name": "Tumbler",
+            "price": 150,
+            "oldPrice": 201,
+            "image": "https://img.freepik.com/free-photo/hand-holding-thermos-mock-up-yellow-background_23-2148295782.jpg?t=st=1768658552~exp=1768662152~hmac=49a2a6f3baede604fba472473fe445b65e1012adeb999523fb707a70ec3f6c7d&w=2000",
+            "category": "Sports",
+            "badge": null,
+            "badgeColor": null
+        }
+    ]
+};
