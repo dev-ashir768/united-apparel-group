@@ -66,7 +66,8 @@
                     <span
                         class="bg-brand-black text-white text-[10px] md:text-xs font-bold uppercase tracking-widest px-2 py-1 md:px-3 rounded mb-2 md:mb-3">Sports</span>
                     <h3 class="text-2xl md:text-3xl font-bold text-white mb-1 md:mb-2 leading-tight">Performance
-                        <br>Gear</h3>
+                        <br>Gear
+                    </h3>
                     <div class="mt-1 md:mt-2 text-white font-bold text-xs md:text-sm border-b border-white pb-1">Shop
                         Now</div>
                 </div>
@@ -239,7 +240,7 @@
             </div>
 
             <div class="relative h-[600px] bg-gray-200">
-                <img src="https://placehold.co/800x800/f3f4f6/333?text=Fabric+Swatches+&+Materials" alt="Services"
+                <img src="assets/img/fabric-swatches.png" alt="Fabric Swatches & Materials"
                     class="w-full h-full object-cover">
                 <div class="absolute -bottom-8 -left-8 bg-white p-8 shadow-xl max-w-sm hidden md:block">
                     <p class="text-3xl font-bold text-brand-black mb-1">10+</p>
